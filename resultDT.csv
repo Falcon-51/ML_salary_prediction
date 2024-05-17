@@ -784,7 +784,7 @@
 783,25.0, Private,189334.0, 11th,7.0, Married-civ-spouse, Transport-moving, Husband, White, Male,0.0,0.0,40.0, United-States,<=N
 784,49.0, Private,139571.0, HS-grad,9.0, Married-civ-spouse, Adm-clerical, Husband, White, Male,4064.0,0.0,40.0, United-States,<=N
 785,36.0, Private,111545.0, Bachelors,13.0, Married-civ-spouse, Prof-specialty, Husband, White, Male,0.0,1902.0,40.0, United-States,>N
-786,67.0, Private,72776.0, Some-college,10.0, Married-civ-spouse, Handlers-cleaners, Husband, White, Male,10566.0,0.0,15.0, United-States,>N
+786,67.0, Private,72776.0, Some-college,10.0, Married-civ-spouse, Handlers-cleaners, Husband, White, Male,10566.0,0.0,15.0, United-States,<=N
 787,54.0, Private,307973.0, HS-grad,9.0, Married-civ-spouse, Handlers-cleaners, Husband, White, Male,0.0,0.0,40.0, United-States,<=N
 788,45.0, Local-gov,211666.0, Doctorate,16.0, Never-married, Prof-specialty, Not-in-family, White, Female,0.0,0.0,40.0, United-States,<=N
 789,30.0, Private,143766.0, Some-college,10.0, Never-married, Craft-repair, Not-in-family, White, Male,0.0,0.0,40.0, United-States,<=N
@@ -4138,7 +4138,7 @@
 4140,29.0, Private,433624.0, Some-college,10.0, Never-married, Adm-clerical, Not-in-family, White, Female,0.0,0.0,40.0, United-States,<=N
 4141,27.0, Private,179681.0, Assoc-voc,11.0, Married-spouse-absent, Tech-support, Own-child, White, Female,0.0,0.0,40.0, United-States,<=N
 4142,21.0, Local-gov,136208.0, Some-college,10.0, Never-married, Protective-serv, Own-child, White, Male,0.0,0.0,48.0, United-States,<=N
-4143,64.0, Private,159715.0, HS-grad,9.0, Married-civ-spouse, Transport-moving, Husband, White, Male,10566.0,0.0,40.0, United-States,>N
+4143,64.0, Private,159715.0, HS-grad,9.0, Married-civ-spouse, Transport-moving, Husband, White, Male,10566.0,0.0,40.0, United-States,<=N
 4144,33.0, Private,164683.0, HS-grad,9.0, Never-married, Transport-moving, Own-child, White, Female,0.0,0.0,40.0, United-States,<=N
 4145,35.0, Private,152307.0, 11th,7.0, Married-civ-spouse, Craft-repair, Husband, White, Male,0.0,0.0,40.0, United-States,<=N
 4146,51.0, Private,256908.0, HS-grad,9.0, Married-civ-spouse, Transport-moving, Husband, White, Male,0.0,0.0,50.0, United-States,<=N
@@ -4196,7 +4196,7 @@
 4198,46.0, Local-gov,192235.0, 11th,7.0, Married-civ-spouse, Handlers-cleaners, Husband, Black, Male,0.0,0.0,40.0, United-States,<=N
 4199,27.0, Private,467936.0, Some-college,10.0, Married-civ-spouse, Adm-clerical, Husband, White, Male,0.0,0.0,48.0, Mexico,<=N
 4200,25.0, Private,264136.0, Bachelors,13.0, Never-married, Prof-specialty, Not-in-family, White, Male,0.0,0.0,60.0, United-States,<=N
-4201,61.0, Self-emp-not-inc,184009.0, Bachelors,13.0, Never-married, Exec-managerial, Not-in-family, White, Female,0.0,2444.0,50.0, United-States,>N
+4201,61.0, Self-emp-not-inc,184009.0, Bachelors,13.0, Never-married, Exec-managerial, Not-in-family, White, Female,0.0,2444.0,50.0, United-States,<=N
 4202,50.0, Private,165001.0, Masters,14.0, Married-civ-spouse, Exec-managerial, Husband, White, Male,0.0,0.0,40.0, United-States,>N
 4203,66.0, Private,123484.0, Some-college,10.0, Never-married, Adm-clerical, Own-child, White, Female,0.0,0.0,40.0, United-States,<=N
 4204,26.0, Private,123384.0, HS-grad,9.0, Widowed, Adm-clerical, Unmarried, White, Female,0.0,0.0,20.0, United-States,<=N
@@ -4526,7 +4526,7 @@
 4528,35.0, Private,295939.0, HS-grad,9.0, Married-civ-spouse, Machine-op-inspct, Husband, White, Male,0.0,0.0,40.0, United-States,<=N
 4529,61.0, Self-emp-not-inc,127198.0, HS-grad,9.0, Married-civ-spouse, Craft-repair, Husband, White, Male,0.0,0.0,40.0, Germany,<=N
 4530,48.0, Private,81497.0, Some-college,10.0, Divorced, Exec-managerial, Not-in-family, White, Female,0.0,0.0,65.0, United-States,<=N
-4531,30.0, Self-emp-not-inc,143078.0, Bachelors,13.0, Divorced, Sales, Not-in-family, White, Male,0.0,2444.0,55.0, United-States,>N
+4531,30.0, Self-emp-not-inc,143078.0, Bachelors,13.0, Divorced, Sales, Not-in-family, White, Male,0.0,2444.0,55.0, United-States,<=N
 4532,70.0, Self-emp-not-inc,177806.0, Assoc-voc,11.0, Married-civ-spouse, Farming-fishing, Husband, White, Male,0.0,0.0,40.0, United-States,<=N
 4533,30.0, Local-gov,210926.0, 9th,5.0, Divorced, Farming-fishing, Unmarried, White, Female,0.0,0.0,40.0, Mexico,<=N
 4534,34.0, Private,195144.0, HS-grad,9.0, Never-married, Exec-managerial, Not-in-family, White, Female,0.0,0.0,40.0, United-States,<=N
@@ -4894,7 +4894,7 @@
 4896,41.0, Private,106068.0, HS-grad,9.0, Divorced, Sales, Unmarried, White, Female,0.0,0.0,40.0, United-States,<=N
 4897,22.0, Private,191878.0, HS-grad,9.0, Never-married, Other-service, Not-in-family, Black, Female,0.0,0.0,35.0, United-States,<=N
 4898,30.0, Private,159008.0, Bachelors,13.0, Married-spouse-absent, Prof-specialty, Not-in-family, White, Female,0.0,0.0,35.0, United-States,<=N
-4899,39.0, Private,181983.0, Doctorate,16.0, Divorced, Exec-managerial, Not-in-family, White, Female,0.0,2559.0,60.0, England,>N
+4899,39.0, Private,181983.0, Doctorate,16.0, Divorced, Exec-managerial, Not-in-family, White, Female,0.0,2559.0,60.0, England,<=N
 4900,65.0, Private,113293.0, HS-grad,9.0, Married-civ-spouse, Craft-repair, Husband, White, Male,0.0,0.0,50.0, United-States,<=N
 4901,61.0, Local-gov,224711.0, Bachelors,13.0, Never-married, Prof-specialty, Not-in-family, White, Female,0.0,0.0,63.0, United-States,<=N
 4902,20.0, Private,460356.0, 12th,8.0, Never-married, Other-service, Not-in-family, White, Male,0.0,0.0,30.0, Mexico,<=N
@@ -5519,7 +5519,7 @@
 5521,31.0, Local-gov,265706.0, Bachelors,13.0, Never-married, Protective-serv, Not-in-family, White, Male,4650.0,0.0,40.0, United-States,<=N
 5522,65.0, Self-emp-not-inc,111916.0, Prof-school,15.0, Married-civ-spouse, Exec-managerial, Husband, White, Male,0.0,0.0,10.0, United-States,<=N
 5523,62.0, State-gov,213700.0, Doctorate,16.0, Divorced, Prof-specialty, Not-in-family, White, Male,0.0,0.0,50.0, United-States,<=N
-5524,39.0, Private,276559.0, Masters,14.0, Never-married, Prof-specialty, Not-in-family, White, Male,0.0,2444.0,45.0, United-States,>N
+5524,39.0, Private,276559.0, Masters,14.0, Never-married, Prof-specialty, Not-in-family, White, Male,0.0,2444.0,45.0, United-States,<=N
 5525,36.0, Private,36989.0, Some-college,10.0, Married-civ-spouse, Sales, Husband, White, Male,0.0,0.0,40.0, United-States,<=N
 5526,59.0, Private,181566.0, HS-grad,9.0, Married-civ-spouse, Craft-repair, Husband, White, Male,4508.0,0.0,40.0, United-States,<=N
 5527,23.0, Private,202920.0, Assoc-voc,11.0, Never-married, Adm-clerical, Own-child, White, Female,0.0,0.0,40.0, Germany,<=N
@@ -7396,7 +7396,7 @@
 7399,44.0, Private,172160.0, 11th,7.0, Divorced, Machine-op-inspct, Unmarried, Black, Female,0.0,0.0,40.0, United-States,<=N
 7400,62.0, Self-emp-inc,234738.0, Bachelors,13.0, Married-civ-spouse, Exec-managerial, Husband, White, Male,5013.0,0.0,50.0, United-States,>N
 7401,34.0, Private,33117.0, HS-grad,9.0, Divorced, Machine-op-inspct, Not-in-family, White, Male,0.0,0.0,40.0, United-States,<=N
-7402,64.0, Self-emp-not-inc,217380.0, Prof-school,15.0, Divorced, Prof-specialty, Not-in-family, White, Male,0.0,2559.0,60.0, United-States,>N
+7402,64.0, Self-emp-not-inc,217380.0, Prof-school,15.0, Divorced, Prof-specialty, Not-in-family, White, Male,0.0,2559.0,60.0, United-States,<=N
 7403,36.0, Private,157954.0, HS-grad,9.0, Divorced, Adm-clerical, Unmarried, White, Female,0.0,0.0,40.0, United-States,<=N
 7404,53.0, Private,164299.0, Bachelors,13.0, Married-civ-spouse, Adm-clerical, Husband, White, Male,0.0,1887.0,65.0, United-States,>N
 7405,61.0, Self-emp-not-inc,224981.0, 10th,6.0, Widowed, Craft-repair, Other-relative, White, Male,0.0,0.0,18.0, Mexico,<=N
@@ -8889,7 +8889,7 @@
 8892,39.0, Private,102865.0, HS-grad,9.0, Married-civ-spouse, Craft-repair, Husband, White, Male,0.0,0.0,40.0, United-States,<=N
 8893,47.0, Private,209146.0, Masters,14.0, Divorced, Sales, Not-in-family, White, Male,27828.0,0.0,40.0, United-States,>N
 8894,40.0, Private,173001.0, Some-college,10.0, Married-civ-spouse, Tech-support, Own-child, White, Female,0.0,1902.0,40.0, United-States,>N
-8895,40.0, Private,277256.0, Bachelors,13.0, Divorced, Exec-managerial, Not-in-family, White, Male,0.0,2559.0,55.0, United-States,>N
+8895,40.0, Private,277256.0, Bachelors,13.0, Divorced, Exec-managerial, Not-in-family, White, Male,0.0,2559.0,55.0, United-States,<=N
 8896,46.0, Private,20534.0, Masters,14.0, Married-civ-spouse, Other-service, Husband, White, Male,0.0,0.0,20.0, United-States,<=N
 8897,35.0, Private,60227.0, HS-grad,9.0, Married-civ-spouse, Craft-repair, Husband, White, Male,0.0,0.0,40.0, United-States,<=N
 8898,19.0, State-gov,176936.0, HS-grad,9.0, Never-married, Adm-clerical, Own-child, White, Female,0.0,0.0,30.0, United-States,<=N
@@ -10257,7 +10257,7 @@
 10261,74.0, Private,95630.0, 9th,5.0, Married-civ-spouse, Prof-specialty, Husband, White, Male,0.0,0.0,10.0, United-States,<=N
 10262,19.0, Private,229516.0, 7th-8th,4.0, Never-married, Machine-op-inspct, Other-relative, White, Male,0.0,0.0,40.0, United-States,<=N
 10263,36.0, Self-emp-not-inc,127740.0, HS-grad,9.0, Married-civ-spouse, Exec-managerial, Husband, White, Male,0.0,0.0,99.0, United-States,<=N
-10264,39.0, State-gov,252662.0, Doctorate,16.0, Never-married, Prof-specialty, Not-in-family, White, Male,0.0,2824.0,50.0, United-States,>N
+10264,39.0, State-gov,252662.0, Doctorate,16.0, Never-married, Prof-specialty, Not-in-family, White, Male,0.0,2824.0,50.0, United-States,<=N
 10265,17.0, Private,171080.0, 12th,8.0, Never-married, Prof-specialty, Own-child, White, Male,0.0,0.0,40.0, United-States,<=N
 10266,47.0, Private,118358.0, HS-grad,9.0, Never-married, Prof-specialty, Other-relative, White, Female,0.0,0.0,50.0, United-States,<=N
 10267,32.0, Private,160594.0, Bachelors,13.0, Never-married, Sales, Not-in-family, White, Male,0.0,1564.0,50.0, United-States,<=N
@@ -11359,7 +11359,7 @@
 11365,42.0, Private,444134.0, HS-grad,9.0, Married-civ-spouse, Transport-moving, Husband, White, Male,0.0,0.0,40.0, United-States,<=N
 11366,18.0, Private,24688.0, HS-grad,9.0, Never-married, Prof-specialty, Not-in-family, White, Male,0.0,0.0,40.0, United-States,<=N
 11367,34.0, Local-gov,33731.0, Some-college,10.0, Married-civ-spouse, Transport-moving, Husband, White, Male,0.0,0.0,40.0, United-States,<=N
-11368,27.0, Private,209443.0, Bachelors,13.0, Married-AF-spouse, Sales, Wife, White, Female,0.0,0.0,40.0, United-States,<=N
+11368,27.0, Private,209443.0, Bachelors,13.0, Married-AF-spouse, Sales, Wife, White, Female,0.0,0.0,40.0, United-States,>N
 11369,39.0, Private,140854.0, HS-grad,9.0, Married-civ-spouse, Transport-moving, Husband, White, Male,0.0,1902.0,60.0, United-States,>N
 11370,50.0, Private,330142.0, Some-college,10.0, Married-civ-spouse, Other-service, Husband, White, Male,0.0,0.0,44.0, United-States,<=N
 11371,26.0, Private,29488.0, Prof-school,15.0, Never-married, Prof-specialty, Not-in-family, White, Male,0.0,0.0,40.0, United-States,<=N
@@ -13053,7 +13053,7 @@
 13061,34.0, Private,207685.0, Bachelors,13.0, Separated, Prof-specialty, Unmarried, Black, Female,0.0,0.0,39.0, United-States,<=N
 13062,55.0, Private,161423.0, Masters,14.0, Married-civ-spouse, Prof-specialty, Husband, White, Male,0.0,0.0,52.0, United-States,>N
 13063,53.0, Self-emp-not-inc,122109.0, Assoc-acdm,12.0, Divorced, Sales, Not-in-family, White, Female,0.0,0.0,70.0, United-States,<=N
-13064,45.0, Private,215892.0, Masters,14.0, Never-married, Exec-managerial, Not-in-family, White, Female,0.0,2824.0,50.0, United-States,>N
+13064,45.0, Private,215892.0, Masters,14.0, Never-married, Exec-managerial, Not-in-family, White, Female,0.0,2824.0,50.0, United-States,<=N
 13065,45.0, Private,176517.0, Assoc-acdm,12.0, Divorced, Prof-specialty, Unmarried, White, Female,0.0,0.0,50.0, United-States,<=N
 13066,40.0, Self-emp-not-inc,220821.0, 7th-8th,4.0, Married-civ-spouse, Farming-fishing, Husband, White, Male,0.0,0.0,72.0, United-States,<=N
 13067,73.0, Local-gov,249043.0, Masters,14.0, Married-civ-spouse, Exec-managerial, Husband, White, Male,0.0,0.0,20.0, Cuba,<=N
@@ -13821,7 +13821,7 @@
 13829,59.0, Private,128258.0, HS-grad,9.0, Divorced, Adm-clerical, Unmarried, White, Female,0.0,0.0,38.0, United-States,<=N
 13830,46.0, Self-emp-not-inc,525848.0, 11th,7.0, Married-civ-spouse, Transport-moving, Husband, Black, Male,0.0,0.0,48.0, United-States,<=N
 13831,39.0, Private,124090.0, 10th,6.0, Married-civ-spouse, Transport-moving, Husband, White, Male,0.0,0.0,40.0, United-States,<=N
-13832,67.0, Private,249043.0, Some-college,10.0, Married-civ-spouse, Sales, Husband, White, Male,6767.0,0.0,40.0, United-States,<=N
+13832,67.0, Private,249043.0, Some-college,10.0, Married-civ-spouse, Sales, Husband, White, Male,6767.0,0.0,40.0, United-States,>N
 13833,38.0, Private,119098.0, Some-college,10.0, Never-married, Tech-support, Not-in-family, White, Male,0.0,0.0,42.0, United-States,<=N
 13834,70.0, Private,30772.0, 7th-8th,4.0, Married-civ-spouse, Prof-specialty, Husband, White, Male,0.0,0.0,40.0, United-States,<=N
 13835,22.0, Local-gov,49414.0, Some-college,10.0, Never-married, Adm-clerical, Own-child, Amer-Indian-Eskimo, Female,0.0,0.0,40.0, United-States,<=N
@@ -13966,7 +13966,7 @@
 13975,29.0, Private,212588.0, HS-grad,9.0, Married-civ-spouse, Craft-repair, Husband, White, Male,0.0,0.0,40.0, United-States,<=N
 13976,39.0, Self-emp-not-inc,457453.0, HS-grad,9.0, Married-civ-spouse, Craft-repair, Husband, Black, Male,0.0,0.0,40.0, United-States,<=N
 13977,65.0, Private,187493.0, Masters,14.0, Married-civ-spouse, Prof-specialty, Husband, White, Male,20051.0,0.0,40.0, Germany,>N
-13978,57.0, Self-emp-not-inc,20953.0, Masters,14.0, Married-civ-spouse, Sales, Husband, White, Male,0.0,2129.0,70.0, United-States,<=N
+13978,57.0, Self-emp-not-inc,20953.0, Masters,14.0, Married-civ-spouse, Sales, Husband, White, Male,0.0,2129.0,70.0, United-States,>N
 13979,40.0, Private,131650.0, HS-grad,9.0, Married-civ-spouse, Craft-repair, Husband, White, Male,0.0,0.0,40.0, United-States,<=N
 13980,60.0, Private,290754.0, HS-grad,9.0, Divorced, Machine-op-inspct, Not-in-family, White, Female,0.0,0.0,40.0, United-States,<=N
 13981,46.0, State-gov,114396.0, Masters,14.0, Married-civ-spouse, Prof-specialty, Husband, White, Male,0.0,0.0,40.0, United-States,>N
